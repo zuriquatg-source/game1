@@ -1,0 +1,10 @@
+{
+  "name": "المندس",
+  "description": "لعبة جماعية للأصدقاء والعائلة - GHAZAL presents: لعبة المندس لاكتشاف الجاسوس بين الأصدقاء والتلميح الذكي",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
